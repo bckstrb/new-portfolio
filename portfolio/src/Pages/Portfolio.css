@@ -1,0 +1,30 @@
+.portfolio-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+
+.image-container img {
+    width: 400px;
+    opacity: 0.8;
+}
+
+.image-container{
+    position: relative;
+}
+
+.image-container .content {
+    opacity: 0;
+    position: absolute;
+    top: 50px;
+    color: white;
+    left: 50px;
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.image-container .content:hover {
+    opacity: 1;
+}
