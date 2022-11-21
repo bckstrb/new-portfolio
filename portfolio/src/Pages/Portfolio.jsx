@@ -17,7 +17,7 @@ import "./Portfolio.css"
 const Portfolio = () => {
   return (
     <div>
-      <h1>Portfolio</h1>
+      <h1>My Works</h1>
       <div className="portfolio-container">
         <div className="image-container">
           <img src={Horiseon} alt="" srcset="" />

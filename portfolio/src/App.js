@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+// import Home from "./Pages/Home";
 import AboutMe from "./Pages/AboutMe";
 import ContactMe from "./Pages/ContactMe";
 import Portfolio from "./Pages/Portfolio";
