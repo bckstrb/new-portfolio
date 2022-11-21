@@ -1,17 +1,28 @@
-/* .backgroundImage {
-    height: 100vh;
+.backgroundImage {
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-image: url("../images/background.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.backgroundImage::before {
-    content: "";
-    position: fixed;
-    background-image: url("../images/a.jpg");
-    height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    opacity: 0.9;
+.container {
+    color: white;
+    font-size: 150px;
+    height: 300px;
+    width: 400px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .container-two {
+    color: white;
+    height: 200px;
+    width: 400px;
 } */

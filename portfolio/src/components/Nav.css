@@ -1,5 +1,8 @@
-ul {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+#navbarNav {
+    justify-content: center;
+    font: bold;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
