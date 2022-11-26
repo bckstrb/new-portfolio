@@ -1,11 +1,14 @@
 import React from "react";
 import "./AboutMe.css"
+import Profilepic from "../images/profilepic.jpg"
 
 const AboutMe = () => {
   return (
     <div className="body">
-      <div className="container">
-      <p class="text-center">
+      <img className="profile-pic" src={Profilepic} alt="" srcset="" />
+      <div className="bio-container">
+        <h1 className="text-center">My Story</h1>
+      <p className="text-center">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
           voluptate explicabo possimus quod, sit molestias, incidunt consectetur
           aut iusto modi saepe qui reprehenderit, tenetur nam accusamus sapiente

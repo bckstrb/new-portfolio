@@ -5,12 +5,11 @@ import "./Home.css";
 const Home = () => {
   return (
     <div className="backgroundImage">
-      {/* <img src={Background} alt="" srcset="" /> */}
-      <div className="container">
+      <div className="home-container">
         <p>BECK STRAUB</p>
       </div>
-      {/* <div className="container-two">
-        <p>Software Developer / Designer / Lifetime Learner</p>
+      {/* <div>
+        <h2>Software Developer / Designer / Lifttime Learner</h2>
       </div> */}
     </div>
   );

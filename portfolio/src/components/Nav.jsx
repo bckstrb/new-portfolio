@@ -21,7 +21,7 @@ const nav = ({cPage, setCPage}) => {
           <a className="nav-link" href="#" onClick = {() => setCPage("Portfolio")}>PORTFOLIO</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#" onClick = {() => setCPage("ContactMe")}>CONTACT ME</a>
+          <a className="nav-link" href="#" onClick = {() => setCPage("ContactMe")}>CONTACT</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#" onClick = {() => setCPage("Resume")}>RESUME</a>

@@ -7,6 +7,7 @@ import Resume from "./Pages/Resume";
 import Nav from "./components/Nav";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Footer from "./components/Footer";
+import "./App.css"
 
 const App = () => {
   const [cPage, setCPage] = useState("Home");
@@ -27,9 +28,13 @@ const App = () => {
 
   return (
     <div>
-      <Nav cPage={cPage} setCPage={setCPage} />
-      {handleChange()}
-      <Footer />
+      <div className="page-container">
+        <div className="content-wrap">
+          <Nav cPage={cPage} setCPage={setCPage} />
+          {handleChange()}
+          <Footer />
+        </div>
+      </div>
     </div>
   );
 };

@@ -10,6 +10,7 @@ import Notetaker from '../images/notetaker.png'
 import Employee from '../images/employee.png'
 import Ecommerce from '../images/ecommerce.png'
 import Regex from '../images/regex.png'
+import Gitsmall from '../images/gitsmall.png'
 import "./Portfolio.css"
 
 
@@ -17,14 +18,14 @@ import "./Portfolio.css"
 const Portfolio = () => {
   return (
     <div>
-      <h1>My Works</h1>
       <div className="portfolio-container">
         <div className="image-container">
           <img src={Horiseon} alt="" srcset="" />
           <div className='content'>
             <h2>
               <a href="https://github.com/bckstrb/horiseon_refactoring-">Horiseon</a>
-              <a href="https://github.com/bckstrb/horiseon_refactoring-"> GITHUB link</a>
+              <br></br>
+              <a href="https://github.com/bckstrb/horiseon_refactoring-"><img src={Gitsmall} alt="" srcset="" /></a>
             </h2>
           </div>
         </div>

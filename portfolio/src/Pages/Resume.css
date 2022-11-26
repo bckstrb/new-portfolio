@@ -1,0 +1,27 @@
+.resume {
+    flex: 4;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px
+} 
+
+.card {
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    flex: 0 0 400px;
+    height: 400;
+    width: 400;
+    /* justify-content: center; */
+    /* background-color: rgb(255, 47, 0); */
+    background-color: gray;
+    /* color: white; */
+    padding: 20px;
+  }
+
+  ul {
+    list-style: none;
+  }

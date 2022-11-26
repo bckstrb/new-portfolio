@@ -1,0 +1,23 @@
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: white;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    /* max-height: 40px; */
+}
+
+#github {
+    height: 50px;
+    width: 50px;
+}
+
+#in {
+    height: 50px;
+    width: 50px;
+}
