@@ -25,7 +25,7 @@ const Portfolio = () => {
             <h2>
               <a href="https://github.com/bckstrb/horiseon_refactoring-">Horiseon</a>
               <br></br>
-              <a href="https://github.com/bckstrb/horiseon_refactoring-"><img src={Gitsmall} alt="" srcset="" /></a>
+              <a href="https://github.com/bckstrb/horiseon_refactoring-"></a>
             </h2>
           </div>
         </div>

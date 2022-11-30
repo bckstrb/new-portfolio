@@ -1,6 +1,6 @@
 import React from "react";
-import "./AboutMe.css"
-import Profilepic from "../images/profilepic.jpg"
+import "./AboutMe.css";
+import Profilepic from "../images/profilepic.jpg";
 
 const AboutMe = () => {
   return (
@@ -8,17 +8,14 @@ const AboutMe = () => {
       <img className="profile-pic" src={Profilepic} alt="" srcset="" />
       <div className="bio-container">
         <h1 className="text-center">My Story</h1>
-      <p className="text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
-          voluptate explicabo possimus quod, sit molestias, incidunt consectetur
-          aut iusto modi saepe qui reprehenderit, tenetur nam accusamus sapiente
-          excepturi quisquam? Consequatur esse nulla laudantium harum
-          consectetur corrupti quis minima labore odit cumque dolore adipisci
-          quo earum possimus atque accusantium quam eaque asperiores iste
-          obcaecati, accusamus voluptatum debitis? Minima optio ea officia
-          dignissimos ducimus, aperiam vitae nulla beatae blanditiis sed
-          quisquam eveniet facere, quibusdam cumque ipsam quae dicta architecto,
-          similique adipisci. Iste.
+        <p className="text-center">
+          My name is Beck and I have recently received my Certificate of 
+          Completion from the the University of Utah's Coding Bootcamp with 
+          the goal of becoming a full-stack developer. I have a Bachelors of 
+          Science in Education and Human Sciences from the University of Nebraska-Lincoln. 
+          I moved to Utah three ago and enjoy exploring the nature that this state has to offer.
+          I also enjoy reading, being by the ocean when I can, and working
+          with my hands to build different projects.
         </p>
       </div>
     </div>
