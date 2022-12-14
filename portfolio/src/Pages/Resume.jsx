@@ -5,6 +5,7 @@ const Resume = () => {
   return (
     <div className="resume">
       <section class="card">
+        {/* <h2 className="header-two">Education</h2> */}
         <h2 class="header-two">Education</h2>
           <ul>
             <li class="header-one">University of Nebraska-Lincoln</li>
