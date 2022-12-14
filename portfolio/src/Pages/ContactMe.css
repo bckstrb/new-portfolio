@@ -1,21 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed&family=Fredoka+One&display=swap'); 
+
 .contact-container {
     margin: 0;
-    padding: 0;
+    padding-top: 10%;
     background-color: black;
-}
+    box-sizing: border-box;
+    min-height: 100%;
+    font-family: 'Cabin Condensed', sans-serif;
 
-.contact {
-    width: 500px;
-    background-color: gray;
-    box-shadow: 0 0 20px 0 #999;
-    top: 50%;
-    bottom: 50%; 
-    transform: translate(-50%,-50%);
-    position: absolute;
 }
 
 form {
-    margin: 35%;
+    margin: 0 35%;
 }
 
 .form {
@@ -31,4 +27,19 @@ form {
 .form textarea {
     height: 150px;
     padding-top: 10px;
+}
+
+.content-wrap {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0 40%;
+    font-size: 80px;
+}
+
+h2 {
+    margin: 0 40%;
+    padding-top: 35px;
 }

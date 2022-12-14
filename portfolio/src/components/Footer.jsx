@@ -1,18 +1,20 @@
 import React from "react";
 import "./Footer.css";
-import Github from "../images/github.png";
-import In from "../images/in.png";
+import { FaGithub } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
+import { FcViewDetails } from "react-icons/fc"
 
 const Footer = () => {
   return (
     <div className="footer-container">
       <div>
-        <a href="https://github.com/bckstrb"></a>
-        <img id="github" src={Github} alt="" srcset="" />
+        <a href="https://github.com/bckstrb"><FaGithub color="black" size="50px" /></a>
       </div>
       <div>
-        <img id="in" src={In} alt="" srcset="" />
-        <a href="https://www.linkedin.com/in/beck-straub-ba8ba123a/"></a>
+        <a href="https://www.linkedin.com/in/beck-straub-ba8ba123a/"><FaLinkedin size="50px" /></a>
+      </div>
+      <div>
+        <a href="https://bold.pro/my/rebecca-straub"><FcViewDetails size="50px" /></a>
       </div>
     </div>
   );

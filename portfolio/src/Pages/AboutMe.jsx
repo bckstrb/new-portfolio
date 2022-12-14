@@ -9,13 +9,24 @@ const AboutMe = () => {
       <div className="bio-container">
         <h1 className="text-center">My Story</h1>
         <p className="text-center">
-          My name is Beck and I have recently received my Certificate of 
-          Completion from the the University of Utah's Coding Bootcamp with 
-          the goal of becoming a full-stack developer. I have a Bachelors of 
-          Science in Education and Human Sciences from the University of Nebraska-Lincoln. 
-          I moved to Utah three ago and enjoy exploring the nature that this state has to offer.
-          I also enjoy reading, being by the ocean when I can, and working
-          with my hands to build different projects.
+        I am a web developer that has skills in both the 
+        back-end of web applications and the front-end, 
+        with a certificate from the University of Utah Full 
+        Stack Coding Bootcamp. I have a background in art, 
+        design, and marketing which I can utilize for UX/UI 
+        designs. On my most recent project, I was elected the 
+        role of leader and together we constructed an app for 
+        a travel log using an MVC with Sequelize and Express. 
+        I have been elected team leader on other projects as well. 
+        My particular interests are React and MERN Stack however 
+        I am open to working with other technologies as I continue 
+        to learn and grow in this field. I am excited to explore the 
+        opportunities provided by this education from the 
+        University of Utah and possibly the chance to work with 
+        experienced developers in a mentee position. As a woman in 
+        such a largely male dominated field, I hope to one day be 
+        in a position where I can mentor and be an advocate for 
+        young women starting out web development. 
         </p>
       </div>
     </div>

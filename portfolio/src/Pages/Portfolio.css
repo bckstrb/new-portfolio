@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed&family=Fredoka+One&display=swap'); 
+
 .portfolio-container {
     display: flex;
     flex-wrap: wrap;
@@ -10,7 +12,7 @@
 
 .image-container img {
     width: 400px;
-    opacity: 0.8;
+    /* opacity: 0.8; */
 }
 
 .image-container{
@@ -32,7 +34,18 @@
     opacity: 1;
 }
 
-a {
+.link {
     text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: 'Cabin Condensed', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.link:hover {
+    color: rgb(255, 47, 0);
 }
 
