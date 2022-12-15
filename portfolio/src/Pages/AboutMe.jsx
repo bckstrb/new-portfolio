@@ -7,7 +7,7 @@ const AboutMe = () => {
     <div className="body">
       <img className="profile-pic" src={Profilepic} alt="" srcset="" />
       <div className="bio-container">
-        <h1 className="text-center">My Story</h1>
+        <h1 className="title">My Story</h1>
         <p className="text-center">
         I am a web developer that has skills in both the 
         back-end of web applications and the front-end, 
