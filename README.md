@@ -9,7 +9,7 @@
 This app will allow users to find out a little more about me, my resume, and my portfolio. It also offers a feature to allow a user to contact me throught a contact form
 as a separate page. 
 
-[Link to Application](https://bckstrb.github.io/new-portfolio/)
+[Link to Application](https://bckstrb.github.io/new-portfolio/#)
 
 ## Contact
 
