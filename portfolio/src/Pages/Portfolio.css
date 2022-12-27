@@ -11,7 +11,7 @@
 }
 
 .image-container img {
-    width: 400px;
+    width: 600px;
     /* opacity: 0.8; */
 }
 
@@ -37,7 +37,7 @@
 .link {
     text-decoration: none;
     color: white;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Cabin Condensed', sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -46,6 +46,36 @@
 }
 
 .link:hover {
-    color: rgb(255, 47, 0);
+    color: rgb(92, 1, 54);
+}
+
+.description-container {
+    width: 600px;
+    padding-bottom: 50px;
+}
+
+.description-title {
+    justify-content: center;
+}
+
+.description {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    color: white;
+} 
+
+.tech {
+    color: white;
+    font-size: 20px;
+}
+
+.items {
+    color: rgb(8, 181, 57);
+    font-size: 20px;
+}
+
+#back-end:hover {
+    color: white;
 }
 
