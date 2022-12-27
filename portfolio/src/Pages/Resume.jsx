@@ -37,7 +37,9 @@ const Resume = () => {
             <li class="card-two">HTML</li>
             <li class="card-two">CSS</li>
             <li class="card-two">Javascript</li>
+            <li class="card-two">Web APIs</li>
             <li class="card-two">Third Party APIs</li>
+            <li class="card-two">Server Side APIs</li>
             <li class="card-two">Bootstrap</li>
             <li class="card-two">Git</li>
           </ul>
