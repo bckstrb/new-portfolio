@@ -2,7 +2,7 @@
 
 ![Screenshot 2022-12-27 184024](https://user-images.githubusercontent.com/105738571/209743975-57480fc4-eaa7-47b1-9aa9-1dc9bb441925.png)
 
-## My React Portfolio
+# My React Portfolio
 
 ## Project Overview
 
