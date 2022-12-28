@@ -1,6 +1,6 @@
 ![home](https://user-images.githubusercontent.com/105738571/204685873-6636ecf8-fabf-4032-8f04-c9e2a575592d.png)
 
-![portfolio](https://user-images.githubusercontent.com/105738571/204685887-b8db8f54-f501-44ee-b54e-c1d384c0a57c.png)
+![Screenshot 2022-12-27 184024](https://user-images.githubusercontent.com/105738571/209743975-57480fc4-eaa7-47b1-9aa9-1dc9bb441925.png)
 
 ## My React Portfolio
 
